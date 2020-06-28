@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>//anglodiseno.github.io/testhugo/</link>
     <description>Recent content on Test Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 27 Jun 2020 21:55:38 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//anglodiseno.github.io/testhugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Segundo Post</title>
-      <link>http://example.org/post/segundo-post/</link>
+      <link>//anglodiseno.github.io/testhugo/post/segundo-post/</link>
       <pubDate>Sat, 27 Jun 2020 21:55:38 -0400</pubDate>
       
-      <guid>http://example.org/post/segundo-post/</guid>
+      <guid>//anglodiseno.github.io/testhugo/post/segundo-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Primer Post</title>
-      <link>http://example.org/post/primer-post/</link>
+      <link>//anglodiseno.github.io/testhugo/post/primer-post/</link>
       <pubDate>Sat, 27 Jun 2020 21:55:27 -0400</pubDate>
       
-      <guid>http://example.org/post/primer-post/</guid>
+      <guid>//anglodiseno.github.io/testhugo/post/primer-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>//anglodiseno.github.io/testhugo/contacto/</link>
       <pubDate>Sat, 27 Jun 2020 21:44:49 -0400</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>//anglodiseno.github.io/testhugo/contacto/</guid>
       <description>Hola este es mi H1 este seria un H2 por acá ya va en el H3 ya no recuerdo que significa el tab, ha ya lo vi, esto genera un cuadro con tipografía monoespaciada  opción cursiva con asterisco
 opción cursiva con guion bajo
 opción negrita con asterisco
